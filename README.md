@@ -1,1 +1,2 @@
 # Food-Delivery-Time-Prediction
+In this project, python can be used to anticipate how long it will take for food to arrive after you place a delivery order. To estimate how long it will take for your item to arrive, it makes use of historical information, such as previous delivery timings, as well as additional elements, such as distance, time of day, and weather. The objective is to provide you with a more precise estimate and aid delivery providers in better organizing their daily operations.
